@@ -28,3 +28,6 @@ Think of hands-on activities they can try that will help them learn about the to
 
 * Make {some change} to the code. How does that affect the results?
 
+## Discussion Questions
+Probably the participants at your meetup will have plenty of questions of their own. However, you might come prepared with some questions to spark discussion. Ideally, these are questions that don't have a single correct answer, but where people might have differing opinions. 
+Also, if a particular question or topic generated a lively discussion during your meetup, you can record it here for the benefit of other meetup leaders.
