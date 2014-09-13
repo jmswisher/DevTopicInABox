@@ -9,7 +9,7 @@ Elements of a "meetup box" can include:
 * Notes about the topic and the contents of the box.
 * Demo code that illustrates the topic.
 * Demo script for demoing the code OR link to a video demoing the topic.
-* Suggested hands-on exercises for meetup participants.
+* Suggested hands-on activities for meetup participants.
 * Suggested discussion questions or topics.
 
 ## How to use a meetup box
