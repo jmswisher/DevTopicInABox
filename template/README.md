@@ -17,7 +17,7 @@ Replace the following with appropriate links.
 * Articles: Link to articles about the topic.
 
 ## Learning Objectives
-What should meetup participants be able to *do* (not merely "know") as a result of the meetup?
+What should meetup participants be able to *do* (not merely "know") as a result of the this presentation?
 Take a look at the [Webmaker Web Literacy Map](https://webmaker.org/literacy) for examples of learning objectives. 
 * Objective 1
 * Objective 2
