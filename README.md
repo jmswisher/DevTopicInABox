@@ -1,5 +1,4 @@
 #Dev Topic In A Box
-===============
 
 This repository houses resources for presenting about topics of interest to developers. Each "box" contains a collection of resources about a particular topic related to web development or web app development, such as Web APIs, useful libraries, or developer tools.
 
