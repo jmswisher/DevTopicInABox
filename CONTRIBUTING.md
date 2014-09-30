@@ -20,6 +20,8 @@ Please submit a pull request with your changes.
 Use the issue-tracker built in to Github to submit issues. Please feel free to report bugs or suggest topics, even if you are not able to resolve the issue yourself. We'd like to know about problems with this project and areas of interest to its users. Use the labels such as "bug", "enhancement", "question" and "help wanted" to indicate the type of issue.
 
 ## Translating a topic into another language
+Create an issue for the translation, if one doesn't exist already. Assign the issue to yourself.
+
 Fork the project, and create a new subdirectory for the topic you want to translate, under the appropriate language directory. (If you want to translate to a new language, create a directory for that as well, based on the language code.) Copy the resources from the original topic box into the new directory, and translate them. 
 
 **Note:** Weigh the pros and cons of translating text inside the example code for the topic. On the plus side, translating comments, output text, and variable names makes the code more accessible for speakers of your target language. On the minus side, "forking" code from one directory to another within a project is not supported by git, so you will have to manage merging future changes in the original code yourself. The simplest approach is to reference the code (untranslated) in its original location.
@@ -28,7 +30,7 @@ Please submit a pull request with your changes.
 
 ## Creating a new topic box
 
-You should relate any work you do for creating a new topic box to an issue in the project issue-tracker. You can pick a topic on our wishlist, or you can submit an issue, and then work on it.
+You should relate any work you do for creating a new topic box to an issue in the project issue-tracker. You can pick a topic on our wishlist, or you can submit an issue, and then work on it. Be sure to assign the issue to yourself.
 
 It's a good idea to open a pull request early in your work, so you can get feedback along the way.
 
