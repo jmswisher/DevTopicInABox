@@ -20,7 +20,7 @@ Please submit a pull request with your changes.
 Use the issue-tracker built in to Github to submit issues. Please feel free to report bugs or suggest topics, even if you are not able to resolve the issue yourself. We'd like to know about problems with this project and areas of interest to its users. Use the labels such as "bug", "enhancement", "question" and "help wanted" to indicate the type of issue.
 
 ## Translating a topic into another language
-Fork the project, and create a new subdirectory for the topic you want to translate, under the appropriate language directory. (If you want to translate to a new language, create that directory as well.) Copy the resources from the original topic box into the new directory, and translate them. 
+Fork the project, and create a new subdirectory for the topic you want to translate, under the appropriate language directory. (If you want to translate to a new language, create a directory for that as well, based on the language code.) Copy the resources from the original topic box into the new directory, and translate them. 
 
 **Note:** Weigh the pros and cons of translating text inside the example code for the topic. On the plus side, translating comments, output text, and variable names makes the code more accessible for speakers of your target language. On the minus side, "forking" code from one directory to another within a project is not supported by git, so you will have to manage merging future changes in the original code yourself. The simplest approach is to reference the code (untranslated) in its original location.
 
@@ -28,7 +28,7 @@ Please submit a pull request with your changes.
 
 ## Creating a new topic box
 
-You should relate any work your do for creating a new topic box to an issue in the project issue-tracker. You can pick a topic on our wishlist, or you can submit an issue, and then work on it.
+You should relate any work you do for creating a new topic box to an issue in the project issue-tracker. You can pick a topic on our wishlist, or you can submit an issue, and then work on it.
 
 It's a good idea to open a pull request early in your work, so you can get feedback along the way.
 
@@ -36,8 +36,8 @@ It's a good idea to open a pull request early in your work, so you can get feedb
 A topic box *must* contain at least the following elements:
 * A *code project* that demonstrates the topic. This is obviously a must for API topics. Even if the topic is about a developer tool, provide a sample file or project that people can use to play with the relevant features of the tool (for example, for a CSS tool, provide a CSS file and an HTML file that uses it). If you don't have a code project, you need to make a persuasive argument why code is not relevant for the topic.
   * Follow [best practices for example code](http://www.developer-evangelism.com/code.php) to make your code project self-contained and practical.
-  * Document *any* external dependencies (even jQuery), to ensure that others can find everything needed to run your code.
-  * All media (graphics, video, audio) files included with your project must be openly licensed to enable others to copy them.
+  * Document *any* external dependencies (even jQuery), to ensure that others can find everything they would need to run your code.
+  * All media (graphics, video, audio) files included with your project must be openly licensed to enable others to copy them. Include license references and attributions in your README.md file.
 * A *script for demoing* the topic. This is a list of actions a presenter takes to demonstrate the API, tool, etc. 
 * *Presentation notes* outlining the main points that a presenter should make about the topic. 
 
