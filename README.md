@@ -22,8 +22,9 @@ To present about a topic using a topic box, you should:
 6. Submit an issue with the "usage report" label to share your experience using the topic box. Please be sure to include the following:
   * Date
   * Location
+  * Type of event (meetup/conference/other?)
   * What topic box did you use?
-  * How many people attended the event?
+  * How many people attended your presentation?
   * Describe what went well and what could be improved
 
 
